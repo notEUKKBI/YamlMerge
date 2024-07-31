@@ -7,7 +7,9 @@ public class add : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        //茄快聚 快聚
+        //茄快聚 快聚 //d旷局だげげ
+
+        Debug.Log("qw32442");
     }
 
     // Update is called once per frame
