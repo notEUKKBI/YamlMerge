@@ -9,6 +9,13 @@ public class add : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+
+        Debug.Log("qw32442");
+        Debug.Log("qw32442");
+        Debug.Log("qw32442");
+        Debug.Log("qw32442");
+        Debug.Log("qw32442");
+        Debug.Log("qw32442");
         //asdadweqwrasfasdf
         //asdadweqwrasfasdf
         //asdadweqwrasfasdf
