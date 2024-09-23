@@ -16,6 +16,18 @@ public class add : MonoBehaviour
         //asdadweqwrasfasdf
 
         Debug.Log("qw32442");
+        Debug.Log("qw32442");
+        Debug.Log("qw32442");
+        Debug.Log("qw32442");
+        Debug.Log("qw32442");
+        Debug.Log("qw32442");
+        Debug.Log("qw32442");
+        Debug.Log("qw32442");
+        Debug.Log("qw32442");
+        Debug.Log("qw32442");
+        Debug.Log("qw32442");
+        Debug.Log("qw32442");
+        Debug.Log("qw32442");
     }
 
     // Update is called once per frame
