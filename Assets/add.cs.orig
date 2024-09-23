@@ -10,14 +10,21 @@ public class add : MonoBehaviour
     void Start()
     {
 <<<<<<< HEAD
-        //ÇÑ¿ì¾Û ¿ì¾Û //d¿õ¾Ö¤À¤²¤²
-
+        Debug.Log("qw32442");
+        Debug.Log("qw32442");
+        Debug.Log("qw32442");
+        Debug.Log("qw32442");
+        Debug.Log("qw32442");
         Debug.Log("qw32442");
 =======
-        //ÇÑ¿ì¾Û ¿ì¾Û Ÿ¶ºñ Ÿ¶ºñ
-        //ÀÀ¾ÖÀÀ¤·¾Ö
-        Debug.Log("qweqweqwe");
->>>>>>> test-1
+        //asdadweqwrasfasdf
+        //asdadweqwrasfasdf
+        //asdadweqwrasfasdf
+        //asdadweqwrasfasdf
+        //asdadweqwrasfasdf
+
+>>>>>>> main
+        Debug.Log("qw32442");
     }
 
     // Update is called once per frame
