@@ -6,35 +6,12 @@ public class add : MonoBehaviour
 {
     [SerializeField]
     private List<string> m;
+
+    [SerializeField]
+    private List<string> m3;
     // Start is called before the first frame update
     void Start()
     {
-
-        Debug.Log("qw32442");
-        Debug.Log("qw32442");
-        Debug.Log("qw32442");
-        Debug.Log("qw32442");
-        Debug.Log("qw32442");
-        Debug.Log("qw32442");
-        //asdadweqwrasfasdf
-        //asdadweqwrasfasdf
-        //asdadweqwrasfasdf
-        //asdadweqwrasfasdf
-        //asdadweqwrasfasdf
-
-        Debug.Log("qw32442");
-        Debug.Log("qw32442");
-        Debug.Log("qw32442");
-        Debug.Log("qw32442");
-        Debug.Log("qw32442");
-        Debug.Log("qw32442");
-        Debug.Log("qw32442");
-        Debug.Log("qw32442");
-        Debug.Log("qw32442");
-        Debug.Log("qw32442");
-        Debug.Log("qw32442");
-        Debug.Log("qw32442");
-        Debug.Log("qw32442");
     }
 
     // Update is called once per frame
